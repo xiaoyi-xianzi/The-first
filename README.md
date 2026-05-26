@@ -1,2 +1,3 @@
 # The-first
-第一个用来测试agent的github仓库
+第一个使用claude code的github仓库，随着使用各种skills后续会加入各种好用的供大家参考
+可以帮助解答一些agent的使用问题，譬如agent登录、api的调用、skills的安装等等
